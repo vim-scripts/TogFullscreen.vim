@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=932
+
+A simple script that allows you to quickly toggle the Gvim window between regular & fullscreen modes. Matches the functionality of the F11 key in IExplorer.
+
+Keys:
+F11 - toggle fullscreen
